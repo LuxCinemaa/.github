@@ -72,9 +72,9 @@ Our mission is to make cinema booking accessible, convenient, and enjoyable for 
 
 | Component | Description | Tech Stack | Status |
 |-----------|-------------|------------|--------|
-| **[Frontend](link-to-frontend-repo)** | React-based user interface | React.js | ✅ Active |
-| **[Backend](link-to-backend-repo)** | Node.js API server | Node.js, Express | ✅ Active |
-| **[Admin Panel](link-to-admin-repo)** | Laravel management system | PHP, Laravel | ✅ Active |
+| **[Frontend](https://github.com/LuxCinemaa/LuxCinema-Website)** | React-based user interface | React.js | ✅ Active |
+| **[Backend](https://github.com/LuxCinemaa/LuxCinema-Backend)** | Node.js API server | Node.js, Express | ✅ Active |
+| **[Admin Panel](https://github.com/LuxCinemaa/Luxcinema-Panel)** | Laravel management system | PHP, Laravel | ✅ Active |
 
 ---
 
