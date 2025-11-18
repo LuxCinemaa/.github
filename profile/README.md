@@ -147,49 +147,6 @@ php artisan serve
 
 ---
 
-## 🤝 Contributing
-
-We love contributions! Whether you're fixing bugs, improving documentation, or proposing new features, your help is welcome.
-
-### How to Contribute
-
-1. **Fork the repository** you want to contribute to
-2. **Create a feature branch** (`git checkout -b feature/AmazingFeature`)
-3. **Commit your changes** (`git commit -m 'Add some AmazingFeature'`)
-4. **Push to the branch** (`git push origin feature/AmazingFeature`)
-5. **Open a Pull Request**
-
-### Contribution Guidelines
-
-- Write clear, concise commit messages
-- Follow the existing code style
-- Add tests for new features
-- Update documentation as needed
-- Be respectful and constructive in discussions
-
----
-
-## 📚 Documentation & Resources
-
-- 📖 **Documentation** - [Coming Soon]
-- 🐛 **Issue Tracker** - Report bugs and request features
-- 💬 **Discussions** - Join our community discussions
-- 📧 **Email Support** - Contact us for support
-- 🎓 **API Documentation** - [Coming Soon]
-
----
-
-## 🌈 Community
-
-Join our growing community of developers and cinema enthusiasts!
-
-- Share your ideas and feedback
-- Report bugs and issues
-- Contribute to the codebase
-- Help improve documentation
-- Connect with other developers
-
----
 
 ## 🍿 Fun Facts
 
@@ -202,43 +159,8 @@ Join our growing community of developers and cinema enthusiasts!
 
 ---
 
-## 👨‍💻 Team
-
-Made with ❤️ by developers who are passionate about creating amazing user experiences.
-
----
-
-## 📞 Contact & Support
-
-Need help or have questions?
-
-- **Instagram**: [@iyanmikasa](https://www.instagram.com/iyanmikasa/)
-- **GitHub**: [@Yanzz231](https://github.com/Yanzz231)
-- **Issues**: Open an issue in the respective repository
-- **Email**: [Contact via Instagram DM]
-
----
-
 ## 📄 License
 
 This project is under the [Yanzz](https://github.com/Yanzz231) license.
 
 ---
-
-## 🙏 Acknowledgments
-
-Special thanks to all contributors and supporters who made this project possible!
-
----
-
-<p align="center">
-  <strong>⭐ Star us on GitHub — it motivates us a lot!</strong>
-</p>
-
-<p align="center">
-  <sub>Made with 💻 and 🎬 by LuxCinema Team</sub>
-</p>
-
-<p align="center">
-  <sub>© 2024 LuxCinema. All rights reserved.</sub>
-</p>
