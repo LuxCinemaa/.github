@@ -1,23 +1,5 @@
 # 🎬 LuxCinema Organization
 
-<p align="center">
-  <img src="public/LUXCinema.png" width="550" alt="LuxCinema Logo"/>
-</p>
-
-<p align="center">
-  <strong>Bringing the Ultimate Cinema Experience to Your Fingertips</strong>
-</p>
-
-<p align="center">
-  <a href="#about">About</a> •
-  <a href="#features">Features</a> •
-  <a href="#tech-stack">Tech Stack</a> •
-  <a href="#repositories">Repositories</a> •
-  <a href="#getting-started">Getting Started</a> •
-  <a href="#contributing">Contributing</a> •
-  <a href="#contact">Contact</a>
-</p>
-
 ---
 
 ## 🎭 About
