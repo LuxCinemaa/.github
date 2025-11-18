@@ -1,7 +1,5 @@
 # 🎬 LuxCinema Organization
 
----
-
 ## 🎭 About
 
 **LuxCinema** is a modern, full-stack cinema booking platform that revolutionizes the movie-going experience. We provide a seamless ticket booking system with real-time seat selection, secure payment processing, and an intuitive user interface.
