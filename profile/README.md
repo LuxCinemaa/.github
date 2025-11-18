@@ -1,7 +1,7 @@
 # 🎬 LuxCinema Organization
 
 <p align="center">
-  <img src="/public/LUXCinema.png" width="550" alt="LuxCinema Logo"/>
+  <img src="public/LUXCinema.png" width="550" alt="LuxCinema Logo"/>
 </p>
 
 <p align="center">
